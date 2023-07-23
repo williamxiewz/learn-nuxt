@@ -1,1 +1,1 @@
-# learn-nuxt
+# learn-nuxt.js
